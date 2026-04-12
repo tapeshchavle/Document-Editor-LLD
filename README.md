@@ -141,4 +141,4 @@ sequenceDiagram
 ./mvnw clean spring-boot:run
 ```
 
-The WebSocket endpoint is available at `/ws-document`. Clients can subscribe to titles via `/topic/document/{documentId}`.
+The WebSocket endpoint is available at `/ws-document`. Clients can subscribe to titles via `/topic/document/{documentId}`
