@@ -1,4 +1,4 @@
-# Collaborative Document Editor
+ # Collaborative Document Editor
 
 A production-grade, real-time collaborative document editor (like Google Docs) built with Spring Boot and WebSockets. This project focuses on high-performance conflict resolution using **Operational Transformation (OT)** and a strictly **SOLID-compliant** extensible architecture.
 
